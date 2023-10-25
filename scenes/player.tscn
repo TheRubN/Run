@@ -7,8 +7,6 @@
 [sub_resource type="BoxShape" id=2]
 
 [node name="Player" type="KinematicBody"]
-axis_lock_motion_z = true
-move_lock_z = true
 script = ExtResource( 1 )
 
 [node name="MeshInstance" type="MeshInstance" parent="."]

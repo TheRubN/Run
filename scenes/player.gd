@@ -9,7 +9,6 @@ var gravity: float = ProjectSettings.get_setting("physics/3d/default_gravity")
 
 
 func _physics_process(delta):
-	
 	# Mouvements du joueur : droit, gauche, saut, roulade
 	velocity.y -= gravity * delta
 	if Input.is_action_pressed("ui_right"):

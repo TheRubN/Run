@@ -4,4 +4,4 @@
 J'ai commencé une maquette de tempe run (très basique hein)...
 
 Le noeud scenery est responsable de faire spawn des chunks qui sont sauvegardés comme des scènes à part dans le dossier scenes/chunks
-Bien faire attention à préciser la taille des chunks et à mettre l'avant du chunk à z = 0.
+Bien faire attention à préciser la taille des chunks et à mettre l'avant du chunk à z = 0. (prendre exemple sur chunk0 et chunk1)
